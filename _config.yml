@@ -18,8 +18,8 @@ title: Tony Alfrey memorial site
 
 # email: your-email@domain.com
 
-description: > # this means to ignore newlines until "baseurl:"
-  In memory of Tony Alfrey of Woodside, CA, who unfortunately passed away in 2015. We miss you, Tony.
+# description: > # this means to ignore newlines until "baseurl:"
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
