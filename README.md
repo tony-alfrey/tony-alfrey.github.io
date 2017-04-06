@@ -3,8 +3,8 @@
 ## Local development
 
 1. Install Ruby 2.3.3
-1. `bundle install` to install dependencies
-1. `bundle exec jekyll serve` to start the local dev server
+1. `$ bundle install` to install dependencies
+1. `$ bundle exec jekyll serve` to start the local dev server
 1. [http://localhost:4000](http://localhost:4000) to see the local site
 
 ## Misc
